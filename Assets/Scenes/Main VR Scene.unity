@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 185805580}
   - component: {fileID: 185805579}
   - component: {fileID: 185805578}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -389,7 +389,7 @@ GameObject:
   - component: {fileID: 371544200}
   - component: {fileID: 371544199}
   - component: {fileID: 371544198}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -766,7 +766,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 489579375}
-  m_Layer: 9
+  m_Layer: 7
   m_Name: Bullet Hole
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -846,7 +846,7 @@ GameObject:
   - component: {fileID: 628305403}
   - component: {fileID: 628305402}
   - component: {fileID: 628305401}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1136,7 +1136,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 763254395}
-  m_Layer: 9
+  m_Layer: 7
   m_Name: Attach Point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1284,7 +1284,7 @@ GameObject:
   - component: {fileID: 853392985}
   - component: {fileID: 853392984}
   - component: {fileID: 853392983}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Golf Club
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1540,7 +1540,7 @@ GameObject:
   - component: {fileID: 877246394}
   - component: {fileID: 877246393}
   - component: {fileID: 877246392}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2458,7 +2458,7 @@ GameObject:
   - component: {fileID: 1360651894}
   - component: {fileID: 1360651893}
   - component: {fileID: 1360651892}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Golf Ball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2967,7 +2967,7 @@ GameObject:
   - component: {fileID: 1461264575}
   - component: {fileID: 1461264574}
   - component: {fileID: 1461264573}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3183,7 +3183,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1547228063}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Grab Point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3257,6 +3257,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: pistol
       objectReference: {fileID: 0}
+    - target: {fileID: 4511655667520406305, guid: 087e2a9d318d8b842b11b221d1f79534, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4511655667520406309, guid: 087e2a9d318d8b842b11b221d1f79534, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4511655667520406311, guid: 087e2a9d318d8b842b11b221d1f79534, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -3296,7 +3308,7 @@ GameObject:
   - component: {fileID: 1797155190}
   - component: {fileID: 1797155189}
   - component: {fileID: 1797155193}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: VR Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3498,7 +3510,7 @@ GameObject:
   - component: {fileID: 2053204299}
   - component: {fileID: 2053204298}
   - component: {fileID: 2053204297}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3754,7 +3766,7 @@ GameObject:
   - component: {fileID: 2055833883}
   - component: {fileID: 2055833882}
   - component: {fileID: 2055833881}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
